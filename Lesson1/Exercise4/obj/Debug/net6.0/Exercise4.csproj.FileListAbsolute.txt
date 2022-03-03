@@ -1,0 +1,15 @@
+C:\Users\LevitskiyMD\Desktop\C#HW\Lesson1\Exercise4\bin\Debug\net6.0\Exercise4.exe
+C:\Users\LevitskiyMD\Desktop\C#HW\Lesson1\Exercise4\bin\Debug\net6.0\Exercise4.deps.json
+C:\Users\LevitskiyMD\Desktop\C#HW\Lesson1\Exercise4\bin\Debug\net6.0\Exercise4.runtimeconfig.json
+C:\Users\LevitskiyMD\Desktop\C#HW\Lesson1\Exercise4\bin\Debug\net6.0\Exercise4.dll
+C:\Users\LevitskiyMD\Desktop\C#HW\Lesson1\Exercise4\bin\Debug\net6.0\Exercise4.pdb
+C:\Users\LevitskiyMD\Desktop\C#HW\Lesson1\Exercise4\obj\Debug\net6.0\Exercise4.csproj.AssemblyReference.cache
+C:\Users\LevitskiyMD\Desktop\C#HW\Lesson1\Exercise4\obj\Debug\net6.0\Exercise4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LevitskiyMD\Desktop\C#HW\Lesson1\Exercise4\obj\Debug\net6.0\Exercise4.AssemblyInfoInputs.cache
+C:\Users\LevitskiyMD\Desktop\C#HW\Lesson1\Exercise4\obj\Debug\net6.0\Exercise4.AssemblyInfo.cs
+C:\Users\LevitskiyMD\Desktop\C#HW\Lesson1\Exercise4\obj\Debug\net6.0\Exercise4.csproj.CoreCompileInputs.cache
+C:\Users\LevitskiyMD\Desktop\C#HW\Lesson1\Exercise4\obj\Debug\net6.0\Exercise4.dll
+C:\Users\LevitskiyMD\Desktop\C#HW\Lesson1\Exercise4\obj\Debug\net6.0\refint\Exercise4.dll
+C:\Users\LevitskiyMD\Desktop\C#HW\Lesson1\Exercise4\obj\Debug\net6.0\Exercise4.pdb
+C:\Users\LevitskiyMD\Desktop\C#HW\Lesson1\Exercise4\obj\Debug\net6.0\Exercise4.genruntimeconfig.cache
+C:\Users\LevitskiyMD\Desktop\C#HW\Lesson1\Exercise4\obj\Debug\net6.0\ref\Exercise4.dll
