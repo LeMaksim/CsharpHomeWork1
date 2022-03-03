@@ -6,61 +6,27 @@
 
 Console.Clear();
 
-int a = 5, b = 7;
-
-Console.Write("What number is greater? ");
-Console.Write(a);
-Console.Write(" or ");
-Console.Write(b);
-Console.WriteLine("? ");
-
-if (a < b)
+void Proverka(int a, int b)
 {
-    Console.Write(b);
-    Console.WriteLine(" is greater");
-}
-else
-{
+    Console.Write("What number is greater? ");
     Console.Write(a);
-    Console.WriteLine(" is greater");
-}
-
-a = 2;
-b = 10;
-
-Console.Write("What number is greater? ");
-Console.Write(a);
-Console.Write(" or ");
-Console.Write(b);
-Console.WriteLine("? ");
-
-if (a < b)
-{
+    Console.Write(" or ");
     Console.Write(b);
-    Console.WriteLine(" is greater");
-}
-else
-{
-    Console.Write(a);
-    Console.WriteLine(" is greater");
+    Console.WriteLine("? ");
+    if (a < b)
+    {
+        Console.Write(b);
+        Console.WriteLine(" is greater");
+    }
+    else
+    {
+        Console.Write(a);
+        Console.WriteLine(" is greater");
+    }
 }
 
-a = -9;
-b = -3;
+int a1 = 5, b1 = 7, a2 = 2, b2 = 10, a3 = -9, b3 = -3;
 
-Console.Write("What number is greater? ");
-Console.Write(a);
-Console.Write(" or ");
-Console.Write(b);
-Console.WriteLine("? ");
-
-if (a < b)
-{
-    Console.Write(b);
-    Console.WriteLine(" is greater");
-}
-else
-{
-    Console.Write(a);
-    Console.WriteLine(" is greater");
-}
+Proverka(a1, b1);
+Proverka(a2, b2);
+Proverka(a3, b3);
