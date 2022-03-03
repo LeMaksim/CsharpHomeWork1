@@ -1,0 +1,15 @@
+C:\Users\LevitskiyMD\Desktop\Semc#\hoWo2\obj\Debug\net6.0\hoWo2.csproj.AssemblyReference.cache
+C:\Users\LevitskiyMD\Desktop\Semc#\hoWo2\obj\Debug\net6.0\hoWo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LevitskiyMD\Desktop\Semc#\hoWo2\obj\Debug\net6.0\hoWo2.AssemblyInfoInputs.cache
+C:\Users\LevitskiyMD\Desktop\Semc#\hoWo2\obj\Debug\net6.0\hoWo2.AssemblyInfo.cs
+C:\Users\LevitskiyMD\Desktop\Semc#\hoWo2\obj\Debug\net6.0\hoWo2.csproj.CoreCompileInputs.cache
+C:\Users\LevitskiyMD\Desktop\Semc#\hoWo2\bin\Debug\net6.0\hoWo2.exe
+C:\Users\LevitskiyMD\Desktop\Semc#\hoWo2\bin\Debug\net6.0\hoWo2.deps.json
+C:\Users\LevitskiyMD\Desktop\Semc#\hoWo2\bin\Debug\net6.0\hoWo2.runtimeconfig.json
+C:\Users\LevitskiyMD\Desktop\Semc#\hoWo2\bin\Debug\net6.0\hoWo2.dll
+C:\Users\LevitskiyMD\Desktop\Semc#\hoWo2\bin\Debug\net6.0\hoWo2.pdb
+C:\Users\LevitskiyMD\Desktop\Semc#\hoWo2\obj\Debug\net6.0\hoWo2.dll
+C:\Users\LevitskiyMD\Desktop\Semc#\hoWo2\obj\Debug\net6.0\refint\hoWo2.dll
+C:\Users\LevitskiyMD\Desktop\Semc#\hoWo2\obj\Debug\net6.0\hoWo2.pdb
+C:\Users\LevitskiyMD\Desktop\Semc#\hoWo2\obj\Debug\net6.0\hoWo2.genruntimeconfig.cache
+C:\Users\LevitskiyMD\Desktop\Semc#\hoWo2\obj\Debug\net6.0\ref\hoWo2.dll
