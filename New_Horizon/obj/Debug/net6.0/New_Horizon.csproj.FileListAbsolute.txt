@@ -1,0 +1,15 @@
+C:\Users\LevitskiyMD\Desktop\New_Horizon\bin\Debug\net6.0\New_Horizon.exe
+C:\Users\LevitskiyMD\Desktop\New_Horizon\bin\Debug\net6.0\New_Horizon.deps.json
+C:\Users\LevitskiyMD\Desktop\New_Horizon\bin\Debug\net6.0\New_Horizon.runtimeconfig.json
+C:\Users\LevitskiyMD\Desktop\New_Horizon\bin\Debug\net6.0\New_Horizon.dll
+C:\Users\LevitskiyMD\Desktop\New_Horizon\bin\Debug\net6.0\New_Horizon.pdb
+C:\Users\LevitskiyMD\Desktop\New_Horizon\obj\Debug\net6.0\New_Horizon.csproj.AssemblyReference.cache
+C:\Users\LevitskiyMD\Desktop\New_Horizon\obj\Debug\net6.0\New_Horizon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LevitskiyMD\Desktop\New_Horizon\obj\Debug\net6.0\New_Horizon.AssemblyInfoInputs.cache
+C:\Users\LevitskiyMD\Desktop\New_Horizon\obj\Debug\net6.0\New_Horizon.AssemblyInfo.cs
+C:\Users\LevitskiyMD\Desktop\New_Horizon\obj\Debug\net6.0\New_Horizon.csproj.CoreCompileInputs.cache
+C:\Users\LevitskiyMD\Desktop\New_Horizon\obj\Debug\net6.0\New_Horizon.dll
+C:\Users\LevitskiyMD\Desktop\New_Horizon\obj\Debug\net6.0\refint\New_Horizon.dll
+C:\Users\LevitskiyMD\Desktop\New_Horizon\obj\Debug\net6.0\New_Horizon.pdb
+C:\Users\LevitskiyMD\Desktop\New_Horizon\obj\Debug\net6.0\New_Horizon.genruntimeconfig.cache
+C:\Users\LevitskiyMD\Desktop\New_Horizon\obj\Debug\net6.0\ref\New_Horizon.dll
