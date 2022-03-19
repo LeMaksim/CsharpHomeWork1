@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LevitskiyMD\\Desktop\\New_Horizon\\New_Horizon.csproj",
+      "projectUniqueName": "C:\\Users\\LevitskiyMD\\Desktop\\C#HW\\New_Horizon\\New_Horizon.csproj",
       "projectName": "New_Horizon",
-      "projectPath": "C:\\Users\\LevitskiyMD\\Desktop\\New_Horizon\\New_Horizon.csproj",
+      "projectPath": "C:\\Users\\LevitskiyMD\\Desktop\\C#HW\\New_Horizon\\New_Horizon.csproj",
       "packagesPath": "C:\\Users\\LevitskiyMD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LevitskiyMD\\Desktop\\New_Horizon\\obj\\",
+      "outputPath": "C:\\Users\\LevitskiyMD\\Desktop\\C#HW\\New_Horizon\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LevitskiyMD\\AppData\\Roaming\\NuGet\\NuGet.Config"
